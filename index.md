@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome 👋
 
-You can use the [editor on GitHub](https://github.com/polirural/polirural/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Depopulation, land abandonment and the loss of biodiversity are changes that may proceed very slowly yet are often irreversible. In order for policymakers to solve these challenges, they need to know if current policy instruments are effective, who is benefiting from them and in what measure, what driving forces will be most influential and how they will affect the people, and the planet.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To make rural areas more attractive for living, work and investments, PoliRural will leave decision makers at different levels of government better equipped to tackle existing and emerging rural challenges, rural populations more empowered and rural areas more resilient.
 
-### Markdown
+H2020 projects participate in the **Open Research Data Pilot** must deposit data project in a research data repository. This repository contains the specialised software code of two technical outputs of the project: **The Innovation Hub and the System Dynamics (SD) tools**. The **Hub** is a platform for publishing all PoliRural results for further exploitation by the community. **System Dynamics** helps to evaluate policy impacts under different scenarios.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The management of data publishing has been described in the deliverable [D8.2 - Data Management Plan](https://polirural.eu/wp-content/uploads/2021/11/D8.2..pdf) (April, 2021).
+The Open Access Infrastructure for Research in Europe ([**OpenAIRE**](https://www.openaire.eu/)) provides additional information and support on linking publications to underlying research data. The [**Zenodo**](https://zenodo.org/), an OpenAIRE and CERN collaboration, is a repository that llows researchers to deposit both publications and data, while providing tools to link them.
 
-```markdown
-Syntax highlighted code block
+The **FAIR** principles (**F**indability, **A**ccessibility, **I**nteroperability and **R**eusability) describe how research outputs should be organised so they can be more easily accessed, understood, exchanged and reused. Major funding bodies, including the European Commission, promote FAIR data to maximise the integrity and impact of their research investment.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/polirural/polirural/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Polirural](/profile/logo_polirural.png)
