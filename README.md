@@ -1,6 +1,6 @@
 [![Status](https://img.shields.io/badge/Status-Work%20in%20progress-orange?style=plastic)](https://github.com/polirural)
 
-# WP3 - Final Integration, Release & Licensing - GitHub Pages
+# WP3 - Final Integration, Release & Licensing - GitHub Page
 
 This repository host the web page explaining the project and linking to the main public repositories and resources:
 
