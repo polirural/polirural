@@ -5,3 +5,5 @@
 This repository host the web page explaining the project and linking to the main public repositories and resources:
 
 - [polirural.github.io/repos](https://polirural.github.io/repos/)
+
+To see the web code, check out the [gh-pages branch](https://github.com/polirural/repos/tree/gh-pages) in this respository.
