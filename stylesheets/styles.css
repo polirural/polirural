@@ -60,6 +60,7 @@ a:hover small {
 }
 
 /* Original style
+
 /* blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
@@ -68,6 +69,7 @@ a:hover small {
 } */
 
 /* New style */
+
 blockquote {
   background: #529c68;
   border-left: 10px solid #ccc;
@@ -79,7 +81,7 @@ blockquote:before {
   color: #ccc;
   content: open-quote;
   font-size: 4em;
-  line-height: 0.1em;
+  line-height: 0.3em;
   margin-right: 0.25em;
   vertical-align: -0.4em;
 }
