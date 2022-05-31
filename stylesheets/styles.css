@@ -62,8 +62,8 @@ a:hover small {
 /* Original style */
 
 blockquote {
-  background: #bfeeac;
-  border-left: 10px solid rgb(7, 94, 36);
+  background: #bfeeac !important;
+  border-left: 10px solid rgb(7, 94, 36) !important;
   margin: 1.5em 10px;
   padding:0 0 0 30px;
   font-style:italic;
