@@ -59,18 +59,15 @@ a:hover small {
   margin:0 auto;
 }
 
-/* Original style */
+/* New style */
 
 blockquote {
   background: #bfeeac !important;
   border-left: 3px solid rgb(7, 94, 36) !important;
-  margin: 3em 9px;
-  padding:15 30 15 30px;
+  margin: 3em 9px !important;
+  padding:15 30 15 30px !important;
   font-style:italic;
 }
-
-/* New style */
-
 
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
