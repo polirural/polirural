@@ -1,6 +1,6 @@
 body {
   background-color: #fff;
-  animation: color 9s infinite linear;
+  animation: color 12s infinite linear;
   padding:50px;
   font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color:#595959;
@@ -10,12 +10,12 @@ body {
 /* -- Background -- */
 
 @keyframes color {
-  0%   { background: #33CCCC; }
-  20%  { background: #33CC36; }
-  40%  { background: #B8CC33; }
-  60%  { background: #FCCA00; }
-  80%  { background: #33CC36; }
-  100% { background: #33CCCC; }
+  0%   { background: #caf5f5; }
+  20%  { background: #c7f8c8; }
+  40%  { background: #cacfa8; }
+  60%  { background: #e6daab; }
+  80%  { background: #87c989; }
+  100% { background: #95d1d1; }
 }
 
 /* -- Background -- */
