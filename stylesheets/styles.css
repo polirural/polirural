@@ -36,7 +36,8 @@ h3, h4, h5, h6 {
 
 a {
   color:rgb(21, 131, 94);
-  text-decoration:none;
+  text-decoration: underline;
+  text-decoration-thickness: auto;
 }
 
 a:hover {
@@ -51,7 +52,7 @@ a small {
 }
 
 a:hover small {
-  color:#777;
+  color:rgb(75, 74, 74);
 }
 
 .wrapper {
