@@ -10,12 +10,12 @@ body {
 /* -- Background -- */
 
 @keyframes color {
-  0%   { background: #caf5f5; }
-  20%  { background: #c7f8c8; }
-  40%  { background: #cacfa8; }
-  60%  { background: #e6daab; }
-  80%  { background: #87c989; }
-  100% { background: #95d1d1; }
+  0%   { background: #caf5f5c9; }
+  20%  { background: #c7f8c8c9; }
+  40%  { background: #cacfa8c9; }
+  60%  { background: #e6daabc9; }
+  80%  { background: #92bb93c9; }
+  100% { background: #95d1d1c9; }
 }
 
 /* -- Background -- */
