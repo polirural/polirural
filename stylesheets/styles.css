@@ -1,5 +1,6 @@
 body {
   background-color: #fff;
+  animation: color 9s infinite linear;
   padding:50px;
   font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color:#595959;
@@ -7,47 +8,15 @@ body {
 }
 
 /* -- Background -- */
-.background {
-    position: relative;
-    height:700px;
-    width:1000px;
-    margin: 0 auto;
+
+@keyframes color {
+  0%   { background: #33CCCC; }
+  20%  { background: #33CC36; }
+  40%  { background: #B8CC33; }
+  60%  { background: #FCCA00; }
+  80%  { background: #33CC36; }
+  100% { background: #33CCCC; }
 }
-  .background:before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index:1;
-    display:block;
-    height:700px;
-    width:1000px;
-    opacity: 0.5; 
-    background:url('https://unsplash.imgix.net/uploads/1412112828986a673b954/1d8ef901?fit=crop&fm=jpg&h=700&q=75&w=1050') no-repeat;
-    background-position:0;
-    -webkit-transition:all 1s ease;
-    -moz-transition:all 1s ease;
-    -o-transition:all 1s ease;
-    transition:all 1s ease;
-  }
-    .background:hover:before {
-      background-position: -50px;
-      opacity: .7;
-    }
-    
-  .background div {
-    position: relative;
-    z-index:5;
-    color: #fff;
-    font-weight: lighter;
-    position: absolute;
-    left: 20%;
-    top: 30%;
-    width: 60%;
-  }
-    .background div h1 {
-      font-weight: lighter;
-    }
 
 /* -- Background -- */
 
