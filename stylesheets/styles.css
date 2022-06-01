@@ -141,7 +141,7 @@ header ul {
 header li {
   width:89px;
   float:left;
-  border-right:1px solid #e0e0e0;
+  border-right:0px solid #e0e0e0;
   height:40px;
 }
 
@@ -155,7 +155,7 @@ header li:last-child a {
 
 header ul a {
   line-height:0;
-  font-size:12px;
+  font-size:10px;
   color:rgba(88, 88, 88, 0.822);
   display:block;
   text-align:center;
