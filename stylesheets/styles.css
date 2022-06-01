@@ -6,6 +6,51 @@ body {
   font-weight:400;
 }
 
+/* -- Background -- */
+.background {
+    position: relative;
+    height:700px;
+    width:1000px;
+    margin: 0 auto;
+}
+  .background:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index:1;
+    display:block;
+    height:700px;
+    width:1000px;
+    opacity: 0.5; 
+    background:url('https://unsplash.imgix.net/uploads/1412112828986a673b954/1d8ef901?fit=crop&fm=jpg&h=700&q=75&w=1050') no-repeat;
+    background-position:0;
+    -webkit-transition:all 1s ease;
+    -moz-transition:all 1s ease;
+    -o-transition:all 1s ease;
+    transition:all 1s ease;
+  }
+    .background:hover:before {
+      background-position: -50px;
+      opacity: .7;
+    }
+    
+  .background div {
+    position: relative;
+    z-index:5;
+    color: #fff;
+    font-weight: lighter;
+    position: absolute;
+    left: 20%;
+    top: 30%;
+    width: 60%;
+  }
+    .background div h1 {
+      font-weight: lighter;
+    }
+
+/* -- Background -- */
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
@@ -185,7 +230,7 @@ small {
 }
 
 hr {
-  border-top: 1px dotted green;
+  border-top: 3px dotted green;
   background:#e5e5e5;
   height:1px;
   margin:3 3 20px;
