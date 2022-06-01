@@ -139,7 +139,7 @@ header ul {
 }
 
 header li {
-  width:90px;
+  width:89px;
   float:left;
   border-right:0px solid #e0e0e0;
   height:40px;
@@ -159,7 +159,7 @@ header ul a {
   color:rgba(88, 88, 88, 0.822);
   display:block;
   text-align:center;
-  padding-top:12px;
+  padding-top:18px;
   height:30px;
 }
 
@@ -189,7 +189,7 @@ header ul a strong {
 }
 
 section {
-  width:600px;
+  width:500px;
   float:right;
   padding-bottom:50px;
 }
@@ -206,7 +206,7 @@ hr {
 }
 
 footer {
-  width:300px;
+  width:270px;
   float:left;
   position:fixed;
   bottom:50px;
