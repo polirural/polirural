@@ -186,10 +186,9 @@ small {
 
 hr {
   border-top: 1px dotted green;
-  border:1;
   background:#e5e5e5;
   height:1px;
-  margin:5 5 20px;
+  margin:3 3 20px;
 }
 
 footer {
