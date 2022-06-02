@@ -10,9 +10,6 @@ body {
   color:#595959;
   font-weight:400;
 }
-
-/* -- Animated Background  -- */
-
 @keyframes color {
   0%   { background: #caf5f5c9; }
   20%  { background: #c7f8c8c9; }
@@ -21,11 +18,6 @@ body {
   80%  { background: #c7f8c8c9; }
   100% { background: #caf5f5c9; }
 }
-
-/* -- Background -- */
-
-/* New style */
-
 blockquote {
   background: #d2e7c9 !important;
   border-left: 9px solid rgb(26, 10, 85) !important;
