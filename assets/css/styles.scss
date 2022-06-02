@@ -24,3 +24,13 @@ body {
 }
 
 /* -- Background -- */
+
+/* New style */
+
+blockquote {
+  background: #d2e7c9 !important;
+  border-left: 9px solid rgb(26, 10, 85) !important;
+  margin: 3em 9px !important;
+  padding:12 30 12 30px !important;
+  font-style:italic;
+}
