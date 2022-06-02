@@ -179,7 +179,7 @@ strong {
 
 header ul li + li + li {
   border-right:none;
-  width:90px;
+  width:89px;
 }
 
 header ul a strong {
@@ -207,7 +207,7 @@ hr {
 
 footer {
   width:270px;
-  float:left;
+  float:left !important;
   position:fixed !important;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -221,7 +221,7 @@ footer {
   }
 
   header, section, footer {
-    float:none;
+    float:left;
     position:static;
     width:auto;
   }
