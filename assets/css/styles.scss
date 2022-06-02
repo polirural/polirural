@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #fff;
+  animation: color 12s infinite linear;
+  padding:50px;
+  font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color:#595959;
+  font-weight:400;
+}
+
+/* -- Animated Background  -- */
+
+@keyframes color {
+  0%   { background: #caf5f5c9; }
+  20%  { background: #c7f8c8c9; }
+  40%  { background: #b8e79dc9; }
+  60%  { background: #cff1b8c9; }
+  80%  { background: #c7f8c8c9; }
+  100% { background: #caf5f5c9; }
+}
+
+/* -- Background -- */
