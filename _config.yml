@@ -2,4 +2,4 @@ theme: jekyll-theme-architect
 title: Final Integration, Release & Licensing - WP3
 description: Public Repositories
 logo: https://raw.githubusercontent.com/polirural/.github/main/profile/logo_polirural.png
-show_downloads: false
+show_downloads: False
