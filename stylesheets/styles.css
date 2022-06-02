@@ -206,9 +206,9 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:300px;
   float:left;
-  position:fixed;
+  position:fixed !important;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
