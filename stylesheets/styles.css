@@ -221,13 +221,13 @@ footer {
   }
 
   header, section, footer {
-    float:left;
+    float:none;
     position:static;
     width:auto;
   }
 
   header {
-    padding-right:300px;
+    padding-right:270px;
   }
 
   section {
