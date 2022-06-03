@@ -1,8 +1,10 @@
 theme: jekyll-theme-architect
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
+- jekyll-toc
 title: Final Integration, Release & Licensing - WP3
 description: Public Repositories
 logo: https://raw.githubusercontent.com/polirural/.github/main/profile/logo_polirural.png
 show_downloads: False
+toc: true
