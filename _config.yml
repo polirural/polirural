@@ -3,7 +3,7 @@ remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme
 - jekyll-toc
-title: Final Integration, Release & Licensing - WP3
+title: Polirural Final Integration, Release & Licensing
 description: Public Repositories
 logo: https://raw.githubusercontent.com/polirural/.github/main/profile/logo_polirural.png
 show_downloads: False
