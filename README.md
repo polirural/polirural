@@ -8,3 +8,6 @@ Resources
 
 - [GitHub Pages Docs](https://docs.github.com/en/pages)
 - [Jekyll Static Sites](https://jekyllrb.com/) - [Docs](https://jekyllrb.com/docs/)
+- Current theme:
+  - ~~[Minimal](https://github.com/pages-themes/minimal)~~
+  - [**Architec**](https://github.com/pages-themes/architect)
