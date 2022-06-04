@@ -205,12 +205,12 @@ hr {
 }
 
 footer {
-  width: 282px;px;
+  width: 282px;
   color: rgb(69, 64, 210);
   float:left !important;
   background-color: rgba(82, 74, 142, 0.477);
-  position:float !important;
-  bottom:50px;
+  position:fixed !important;
+  bottom:30px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
