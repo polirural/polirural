@@ -205,14 +205,14 @@ hr {
 }
 
 footer {
-  width: 282px;
+  width: 270px;
   text-align: center;
   background-color: rgba(82, 74, 142, 0.477);
   color: rgb(69, 64, 210);
   border: 2px dashed #17053e;
   float:left;
   position:fixed;
-  padding: 30px;
+  padding: 12px;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
