@@ -1,6 +1,8 @@
 ## Welcome 👋
 
-Thanks for the visit. This page mostly compiles public and OS info about the public repositories.
+Thanks for the visit. This page mostly compiles public and OS info about the repositories related to System Dynamics in the context of [PoliRural](https://polirural.eu/).
+
+>Future Oriented Collaborative Policy Development for Rural Areas and People
 
 ## Code and docs
 
