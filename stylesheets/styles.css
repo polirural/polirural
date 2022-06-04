@@ -207,7 +207,7 @@ hr {
 footer {
   width:270px;
   float:left !important;
-  background-color: #777;
+  background-color: rgba(118, 118, 118, 0.683);
   position:fixed !important;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
