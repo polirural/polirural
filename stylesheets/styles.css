@@ -205,7 +205,8 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:30px;
+  color: aquamarine;
   float:left !important;
   background-color: rgba(118, 118, 118, 0.683);
   position:fixed !important;
