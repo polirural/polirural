@@ -212,6 +212,7 @@ footer {
   border: 2px dashed #17053e;
   float:left;
   position:fixed;
+  padding: 30px;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
