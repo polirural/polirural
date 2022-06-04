@@ -1,13 +1,13 @@
 body {
   background-color: #fff;
-  /* animation: color 12s infinite linear; */
-  padding:50px;
+  animation: color 15s infinite linear;
+  padding:30px;
   font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color:#595959;
   font-weight:400;
 }
 
-/* -- Animated Background  -- 
+/* -- Animated Background  -- */
 
 @keyframes color {
   0%   { background: #caf5f5c9; }
