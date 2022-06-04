@@ -21,7 +21,7 @@ body {
 /* -- Background -- */
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:rgb(27, 7, 116);
   margin:0 0 20px;
 }
 
@@ -30,7 +30,7 @@ p, ul, ol, table, pre, dl {
 }
 
 h1, h2, h3 {
-  line-height:1.1;
+  line-height:1;
 }
 
 h1 {
@@ -51,11 +51,10 @@ h3, h4, h5, h6 {
 a {
   color:rgb(21, 131, 94);
   text-decoration: underline;
-  text-decoration-thickness: auto;
 }
 
 a:hover {
-  color:rgb(5, 65, 42);
+  color:rgb(41, 13, 199);
 }
 
 a small {
@@ -128,7 +127,7 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-header ul {
+/* header ul {
   list-style:none;
   height:30px;
   padding:0;
@@ -186,7 +185,7 @@ header ul a strong {
   font-size:10px;
   display:block;
   color:#222;
-}
+} */
 
 section {
   width:500px;
