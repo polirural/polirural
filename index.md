@@ -19,6 +19,8 @@ The Open Access Infrastructure for Research in Europe ([**OpenAIRE**](https://ww
 
 The **FAIR** principles (**F**indability, **A**ccessibility, **I**nteroperability and **R**eusability) describe how research outputs should be organised so they can be more easily accessed, understood, exchanged and reused. Major funding bodies, including the European Commission, promote FAIR data to maximise the integrity and impact of their research investment.
 ## Resources
+
+> Relevant links, soon.
 ## Contact
 
 repos@polirural.eu
