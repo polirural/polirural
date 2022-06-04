@@ -1,8 +1,8 @@
 ## Welcome 👋
 
-Thanks for the visit. This pages mostly compiles public and OS info about the public repositories.
+Thanks for the visit. This page mostly compiles public and OS info about the public repositories.
 
-## Public repositories
+## Code and docs
 
 > Links to repos will be here soon.
 
