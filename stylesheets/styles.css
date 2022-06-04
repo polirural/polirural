@@ -207,7 +207,7 @@ hr {
 footer {
   width:270px;
   float:left !important;
-  position:fixed !important;
+  position:absolute !important;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
