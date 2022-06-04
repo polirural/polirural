@@ -205,11 +205,11 @@ hr {
 }
 
 footer {
-  width:calc(100% - 100px);  /* 300px;*/
+  width:270px;
   color: aquamarine;
   float:left !important;
   background-color: rgba(118, 118, 118, 0.683);
-  position:fixed !important;
+  position:absolute !important;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
