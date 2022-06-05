@@ -11,4 +11,4 @@ Resources
 - Current theme:
   - ~~[Minimal](https://github.com/pages-themes/minimal)~~
   - ~~[Architec](https://github.com/pages-themes/architect)~~
-  - [**Minimal**](https://github.com/pages-themes/minimal)
+  - [**Minimal**](https://github.com/pages-themes/minimal) - [Example](https://pages-themes.github.io/minimal/)
