@@ -10,12 +10,14 @@ body {
 /* -- Animated Background  -- */
 
 @keyframes color {
-  0%   { background: #caf5f5c9; }
-  20%  { background: #c7f8c8c9; }
+  0%   { background: #ffffffc9; }
+  20%   { background: #caf5f5c9; }
+  30%  { background: #c7f8c8c9; }
   40%  { background: #b8e79dc9; }
-  60%  { background: #cff1b8c9; }
-  80%  { background: #c7f8c8c9; }
-  100% { background: #caf5f5c9; }
+  50%  { background: #cff1b8c9; }
+  60%  { background: #c7f8c8c9; }
+  70% { background: #caf5f5c9; }
+  100%   { background: #ffffffc9; }
 }
 
 /* -- Background -- */ 
