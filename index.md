@@ -26,4 +26,4 @@ The **FAIR** principles (**F**indability, **A**ccessibility, **I**nteroperabilit
 
 ## Contact
 
-[repos@polirural.eu](mailto:srepos@polirural.eu)
+:email: [repos@polirural.eu](mailto:srepos@polirural.eu)
