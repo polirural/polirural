@@ -1,0 +1,293 @@
+body {
+  background-color: #fff;
+  animation: color 30s infinite linear;
+  padding:30px;
+  font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color:#595959;
+  font-weight:400;
+}
+
+/* -- Animated Background  -- */
+
+@keyframes color {
+  0%   { background: #caf5f5c9; }
+  20%  { background: #c7f8c8c9; }
+  40%  { background: #b8e79dc9; }
+  60%  { background: #cff1b8c9; }
+  80%  { background: #c7f8c8c9; }
+  100% { background: #caf5f5c9; }
+}
+
+/* -- Background -- */ 
+
+h1, h2, h3, h4, h5, h6 {
+  color:rgb(27, 7, 116);
+  margin:0 0 20px;
+}
+
+p, ul, ol, table, pre, dl {
+  margin:0 0 20px;
+}
+
+h1, h2, h3 {
+  line-height:1;
+}
+
+h1 {
+  font-size:30px;
+  font-weight: 500;
+}
+
+h2 {
+  color:#393939;
+  font-weight: 500;
+}
+
+h3, h4, h5, h6 {
+  color:#494949;
+  font-weight: 500;
+}
+
+a {
+  color:rgb(21, 131, 94);
+  text-decoration: underline rgb(5, 5, 113);
+}
+
+a:hover {
+  color:rgb(41, 13, 199);
+}
+
+a small {
+  font-size:10px;
+  color:#777;
+  margin-top:-0.3em;
+  display:block;
+}
+
+a:hover small {
+  color:rgb(89, 88, 125);
+}
+
+.wrapper {
+  width:860px;
+  margin:0 auto;
+}
+
+/* New style */
+
+blockquote {
+  background: #d2e7c9 !important;
+  border-left: 9px solid rgb(47, 21, 142) !important;
+  margin: 3em 9px !important;
+  padding:12 30 12 30px !important;
+  font-style:italic;
+}
+
+code, pre {
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  color:#333;
+}
+
+pre {
+  padding:8px 15px;
+  background: #f8f8f8;
+  border-radius:5px;
+  border:1px solid #e5e5e5;
+  overflow-x: auto;
+}
+
+table {
+  width:100%;
+  border-collapse:collapse;
+}
+
+th, td {
+  text-align:left;
+  padding:5px 10px;
+  border-bottom:1px solid #e5e5e5;
+}
+
+dt {
+  color:#444;
+  font-weight:500;
+}
+
+th {
+  color:#444;
+}
+
+img {
+  max-width:100%;
+}
+
+header {
+  width:300px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+ header ul {
+  list-style:none;
+  height:30px;
+  padding:0;
+  background: #f4f4f4;
+  border-radius:12px;
+  border:1px solid #e0e0e0;
+  width:300px;
+}
+
+header li {
+  width:89px;
+  float:left;
+  border-right:0px solid #e0e0e0;
+  height:40px;
+}
+
+header li:first-child a {
+  border-radius:5px 0 0 5px;
+}
+
+header li:last-child a {
+  border-radius:0 5px 5px 0;
+}
+
+header ul a {
+  line-height:0;
+  font-size:10px;
+  color:rgba(88, 88, 88, 0.822);
+  display:block;
+  text-align:center;
+  padding-top:18px;
+  height:30px;
+}
+
+header ul a:hover {
+  color:#999;
+  text-align:center;
+}
+
+header ul a:active {
+  background-color:#f0f0f0;
+}
+
+strong {
+  color:rgb(5, 54, 13);
+  font-weight:500;
+}
+
+header ul li + li + li {
+  border-right:none;
+  width:89px;
+}
+
+header ul a strong {
+  font-size:10px;
+  display:block;
+  color:#222;
+} */
+
+section {
+  width:500px;
+  float:right;
+  padding-bottom:50px;
+}
+
+small {
+  font-size:10px;
+}
+
+hr {
+  border-top: 3px dotted green;
+  background:#e5e5e500;
+  height:1px;
+  margin:3 3 20px;
+}
+
+footer {
+  width: 270px;
+  text-align: center;
+  background-color: rgba(82, 74, 142, 0.477);
+  color: rgb(69, 64, 210);
+  border: 2px dashed hsla(258, 84%, 12%, 0.678);
+  float:left;
+  position:fixed;
+  padding: 12px;
+  bottom:50px;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+@media print, screen and (max-width: 960px) {
+
+  div.wrapper {
+    width:auto;
+    margin:0;
+  }
+
+  header, section, footer {
+    float:none;
+    position:static;
+    width:auto;
+  }
+
+  header {
+    padding-right:270px;
+  }
+
+  section {
+    border:1px solid #e5e5e5;
+    border-width:1px 0;
+    padding:20px 0;
+    margin:0 0 20px;
+  }
+
+  header a small {
+    display:inline;
+  }
+
+  header ul {
+    position:absolute;
+    right:50px;
+    top:52px;
+  }
+}
+
+@media print, screen and (max-width: 720px) {
+  body {
+    word-wrap:break-word;
+  }
+
+  header {
+    padding:0;
+  }
+
+  header ul, header p.view {
+    position:static;
+  }
+
+  pre, code {
+    word-wrap:normal;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  body {
+    padding:15px;
+  }
+
+  header ul {
+    width:99%;
+  }
+
+  header li, header ul li + li + li {
+    width:33%;
+  }
+}
+
+@media print {
+  body {
+    padding:0.4in;
+    font-size:12pt;
+    color:#444;
+  }
+}
