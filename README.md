@@ -10,4 +10,5 @@ Resources
 - [Jekyll Static Sites](https://jekyllrb.com/) - [Docs](https://jekyllrb.com/docs/)
 - Current theme:
   - ~~[Minimal](https://github.com/pages-themes/minimal)~~
-  - [**Architec**](https://github.com/pages-themes/architect)
+  - ~~[Architec](https://github.com/pages-themes/architect)~~
+  - [**Minimal**](https://github.com/pages-themes/minimal)
