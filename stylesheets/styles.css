@@ -167,6 +167,7 @@ header ul a {
 header ul a:hover {
   color:#999;
   text-align:center;
+  background: #66ff66;
 }
 
 header ul a:active {
