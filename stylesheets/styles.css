@@ -53,6 +53,7 @@ h3, h4, h5, h6 {
 a {
   color:rgb(21, 131, 94);
   text-decoration: underline rgb(5, 5, 113);
+  text-decoration-thickness: 1px;
 }
 
 a:hover {
