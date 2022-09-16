@@ -8,13 +8,13 @@ Thanks for the visit. This page mostly compiles public and OS info about the rep
 
 Depopulation, land abandonment and the loss of biodiversity are changes that may proceed very slowly yet are often irreversible. In order for policymakers to solve these challenges, they need to know if current policy instruments are effective, who is benefiting from them and in what measure, what driving forces will be most influential and how they will affect the people, and the planet.
 
-PoliRural is a research and innovation project designed to advance rural policy development in the age of disruptive data and technologies in order to deliver a trusted, scalable and transferable solution for policy co-creation. It brings together decision makers, experts and rural inhabitants using advanced policy simulation tools to better understand and tackle regional challenges.
+**PoliRural** is a research and innovation project designed to advance rural policy development in the age of disruptive data and technologies in order to deliver a trusted, scalable and transferable solution for policy co-creation. It brings together decision makers, experts and rural inhabitants using advanced policy simulation tools to better understand and tackle regional challenges.
 
 Among these innovative tools are **Digital Innovation Hub** and **System Dynamics models**. The Hub is a platform for publishing all PoliRural results for further exploitation by the community. System Dynamics helps to evaluate policy impacts under different scenarios.
 
 >To make rural areas more attractive for living, work and investments, **PoliRural** will leave decision makers at different levels of government better equipped to tackle existing and emerging rural challenges, rural populations more empowered and rural areas more resilient.
 
-Management of research data generated and/or collected during the project is described in the deliverable [**D8.2 Data Management Plan**](https://polirural.eu/wp-content/uploads/2021/11/D8.2..pdf). The treatment of original research data produced by the project follow “as open as possible, as closed as necessary” principle as specified in the Horizon 2020 **Open Research Data Pilot**.
+Management of research data generated and/or collected during the project is described in the deliverable [**D8.2 Data Management Plan**](https://polirural.eu/wp-content/uploads/2021/11/D8.2.pdf). The treatment of original research data produced by the project follow “as open as possible, as closed as necessary” principle as specified in the Horizon 2020 **Open Research Data Pilot**.
 
 The Open Access Infrastructure for Research in Europe ([**OpenAIRE**](https://www.openaire.eu/)) provides additional information and support on linking publications to underlying research data. [**Zenodo**](https://zenodo.org/), an *OpenAIRE and CERN collaboration*, is a repository that allows researchers to deposit both publications and data, while providing tools to link them.
 
