@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-...to the PoliRural GitHub organization which host the source code of both Digital Innovation Hub and the Open Source System Dynamics tools, two technical tools developed in the H2020 [PoliRural project](https://polirural.eu/):
+...to the PoliRural *GitHub Organization* which host the source code of both Digital Innovation Hub and the Open Source System Dynamics tools, two technical tools developed in the H2020 [PoliRural project](https://polirural.eu/):
 
 >Future Oriented Collaborative Policy Development for Rural Areas and People
 
@@ -20,7 +20,7 @@ Management of research data generated and/or collected during the project is des
 
 The Open Access Infrastructure for Research in Europe ([**OpenAIRE**](https://www.openaire.eu/)) provides additional information and support on linking publications to underlying research data. [**Zenodo**](https://zenodo.org/), an *OpenAIRE and CERN collaboration*, is a repository that allows researchers to deposit both publications and data, while providing tools to link them.
 
-The **FAIR** principles (**F**indability, **A**ccessibility, **I**nteroperability and **R**eusability) describe how research outputs should be organised so they can be more easily accessed, understood, exchanged and reused. Major funding bodies, including the European Commission, promote FAIR data to maximise the integrity and impact of their research investment. Making PoliRural data FAIR (findable, accessible, interoperable, reusable) is as important as ensuring its compliance with international protocols and legal requirements (e.g. GDPR, the General Data Protection Regulation).
+The **FAIR** principles (**F**indability, **A**ccessibility, **I**nteroperability and **R**eusability) describe how research outputs should be organised so they can be more easily accessed, understood, exchanged and reused. Making PoliRural data FAIR (findable, accessible, interoperable, reusable) is as important as ensuring its compliance with international protocols and legal requirements.
 
 ## Code and docs
 
