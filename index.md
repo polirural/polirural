@@ -4,10 +4,6 @@ Thanks for the visit. This page mostly compiles public and OS info about the rep
 
 >Future Oriented Collaborative Policy Development for Rural Areas and People
 
-## Code and docs
-
-> Links to repos will be here soon.
-
 ## About the project
 
 Depopulation, land abandonment and the loss of biodiversity are changes that may proceed very slowly yet are often irreversible. In order for policymakers to solve these challenges, they need to know if current policy instruments are effective, who is benefiting from them and in what measure, what driving forces will be most influential and how they will affect the people, and the planet.
@@ -20,6 +16,10 @@ Depopulation, land abandonment and the loss of biodiversity are changes that may
 The Open Access Infrastructure for Research in Europe ([**OpenAIRE**](https://www.openaire.eu/)) provides additional information and support on linking publications to underlying research data. [**Zenodo**](https://zenodo.org/), an *OpenAIRE and CERN collaboration*, is a repository that allows researchers to deposit both publications and data, while providing tools to link them.
 
 The **FAIR** principles (**F**indability, **A**ccessibility, **I**nteroperability and **R**eusability) describe how research outputs should be organised so they can be more easily accessed, understood, exchanged and reused. Major funding bodies, including the European Commission, promote FAIR data to maximise the integrity and impact of their research investment.
+
+## Code and docs
+
+> Links to repos will be here soon.
 ## Resources
 
 > Relevant links, soon.
