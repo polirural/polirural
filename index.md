@@ -16,7 +16,7 @@ Among these innovative tools are **Digital Innovation Hub** and **System Dynamic
 
 Management of research data generated and/or collected during the project is described in the deliverable **D8.2 Data Management Plan**. The treatment of original research data produced by the project follow “as open as possible, as closed as necessary” principle as specified in the Horizon 2020 **Open Research Data Pilot**.
 
-H2020 projects participate in the **Open Research Data Pilot** and must deposit, among other data, specialised software or software code in a research data repository.
+> H2020 projects participate in the **Open Research Data Pilot** and must deposit, among other data, specialised software or software code in a research data repository.
 
 The Open Access Infrastructure for Research in Europe ([**OpenAIRE**](https://www.openaire.eu/)) provides additional information and support on linking publications to underlying research data. [**Zenodo**](https://zenodo.org/), an *OpenAIRE and CERN collaboration*, is a repository that allows researchers to deposit both publications and data, while providing tools to link them.
 
@@ -25,6 +25,7 @@ The **FAIR** principles (**F**indability, **A**ccessibility, **I**nteroperabilit
 ## Code and docs
 
 > Links to repos will be here soon.
+
 ## Resources
 
 > Relevant links, soon.
