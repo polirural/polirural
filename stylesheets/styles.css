@@ -208,6 +208,13 @@ hr {
   margin:3 3 20px;
 }
 
+hr.foo {
+  border-top: 2px dashed hsla(258, 84%, 12%, 0.678);
+  background: #e5e5e500;
+  height: 1px;
+  margin: 3 3 18px;
+}
+
 footer {
   width: 270px;
   text-align: center;
