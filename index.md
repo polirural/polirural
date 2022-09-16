@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-Thanks for the visit. This page mostly compiles public and OS info about the repositories related to System Dynamics in the context of [PoliRural](https://polirural.eu/).
+...to the PoliRural GitHub organization which host the source code of both Digital Innovation Hub and the Open Source System Dynamics tools, two technical tools developed in the H2020 [PoliRural project](https://polirural.eu/):
 
 >Future Oriented Collaborative Policy Development for Rural Areas and People
 
