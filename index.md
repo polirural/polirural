@@ -14,7 +14,7 @@ Among these innovative tools are **Digital Innovation Hub** and **System Dynamic
 
 >To make rural areas more attractive for living, work and investments, **PoliRural** will leave decision makers at different levels of government better equipped to tackle existing and emerging rural challenges, rural populations more empowered and rural areas more resilient.
 
-Management of research data generated and/or collected during the project is described in the deliverable [**D8.2 Data Management Plan**](https://polirural.eu/wp-content/uploads/2021/11/D8.2.pdf). The treatment of original research data produced by the project follow “as open as possible, as closed as necessary” principle as specified in the Horizon 2020 **Open Research Data Pilot**.
+Management of research data generated and/or collected during the project is described in the deliverable **D8.2 Data Management Plan**. The treatment of original research data produced by the project follow “as open as possible, as closed as necessary” principle as specified in the Horizon 2020 **Open Research Data Pilot**.
 
 The Open Access Infrastructure for Research in Europe ([**OpenAIRE**](https://www.openaire.eu/)) provides additional information and support on linking publications to underlying research data. [**Zenodo**](https://zenodo.org/), an *OpenAIRE and CERN collaboration*, is a repository that allows researchers to deposit both publications and data, while providing tools to link them.
 
