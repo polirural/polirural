@@ -6,7 +6,7 @@
 
 ## About the project
 
-Depopulation, land abandonment and the loss of biodiversity are changes that may proceed very slowly yet are often irreversible. In order for policymakers to solve these challenges, they need to know if current policy instruments are effective, who is benefiting from them and in what measure, what driving forces will be most influential and how they will affect the people, and the planet.
+Depopulation, land abandonment and the loss of biodiversity in rural areas are changes that may proceed very slowly yet are often irreversible. In order for policymakers to solve these challenges, they need to know if current policy instruments are effective, who is benefiting from them and in what measure, what driving forces will be most influential and how they will affect the people, and the planet.
 
 **PoliRural** is a research and innovation project designed to advance rural policy development in the age of disruptive data and technologies in order to deliver a trusted, scalable and transferable solution for policy co-creation. It brings together decision makers, experts and rural inhabitants using advanced policy simulation tools to better understand and tackle regional challenges.
 
