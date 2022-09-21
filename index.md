@@ -24,7 +24,7 @@ The **FAIR** principles (**F**indability, **A**ccessibility, **I**nteroperabilit
 
 ## Code and docs
 
-> Links to repos will be here soon.
+> [Digital Innovation Hub](https://github.com/polirural/Hub)
 
 ## Resources
 
