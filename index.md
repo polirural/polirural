@@ -30,6 +30,4 @@ The **FAIR** principles (**F**indability, **A**ccessibility, **I**nteroperabilit
 
 > Relevant links, soon.
 
-## Contact
 
-[📧 repos@polirural.eu](mailto:repos@polirural.eu)
