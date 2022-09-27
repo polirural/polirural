@@ -22,12 +22,14 @@ The Open Access Infrastructure for Research in Europe ([**OpenAIRE**](https://ww
 
 The **FAIR** principles (**F**indability, **A**ccessibility, **I**nteroperability and **R**eusability) describe how research outputs should be organised so they can be more easily accessed, understood, exchanged and reused. Making PoliRural data FAIR (findable, accessible, interoperable, reusable) is as important as ensuring its compliance with international protocols and legal requirements.
 
-## Code and docs
+## Code repositories
 
+- [Pysd Polirural Server](https://github.com/polirural/PoliRural-Server-API-and-XMILE-converter)
+- [PoliRural SD client](https://github.com/polirural/PoliRural-SD-client)
 - [Digital Innovation Hub](https://github.com/polirural/Hub)
 
-## Resources
+## Annex
 
-> Relevant links, soon.
+> [GitHub Fundamentals. OpenAIRE & Zenodo infrastructures](https://github.com/polirural/D3.7annex)
 
 
